@@ -1,2 +1,0 @@
-
-Everything is Object README
